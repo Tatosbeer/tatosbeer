@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Badges 🎖️
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftatosbeer%2Fbadges&label=repository%20visits&countColor=%230c7ebe&style=flat&labelStyle=none)
-[![GitHub License](https://img.shields.io/github/license/tatosbeer/badges?color=blue)](https://github.com/tatosbeer/badges/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/tatosbeer/badges?color=blue)](https://github.com/tatosbeer/tatosbeer/blob/main/LICENSE)
 ![Markdown](https://img.shields.io/badge/Markdown-ffffff?style=flat&logo=markdown&logoColor=black)
 ![GitHub Repo stars](https://img.shields.io/github/stars/tatosbeer/badges)
 
