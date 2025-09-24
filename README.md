@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 # Hi there 👋 I'm Thiago Silva, a Sr. DevOps Engineer
 
 - 🔭 I’m currently working on DevOps (culture, tools and best practices) for a project related to Autonomous Vehicles and how it can read environment around and automation for intelligent maps in near-real time
-- 🌱 I’m currently learning DevOps, SRE, and Platform Engineering (culture, tools and best practices) 
+- 🌱 I’m currently - and always be - learning DevOps, SRE, and Platform Engineering (culture, tools and best practices) 
 - 🎤 I'm also mentor and speaker - [TDC](https://thedevconf.com/palestrante/thiago-silva) and [DevOpsDays Campinas](https://talks.devopsdays.org/devopsdays-campinas-2025/speaker/TACGSZ/)
 - 💬 Ask me about: Multicloud - Azure, AWS, GCP, and OCI, IaC - Terraform, Automation with CI/CD - GitHub Actions, and Azure DevOps, GitOps - Flux CD, and Argo CD, Containerization - Docker, and K8s, and Observability - Prometheus, LGTM Stack, New Relic, and Datadog
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/trsilva/)
